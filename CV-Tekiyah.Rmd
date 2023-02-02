@@ -10,11 +10,11 @@ knitr::opts_chunk$set(echo = TRUE)
 # Personal information
 Name Avatar AANG
 
-Address. The last airbender University
+Address. THe last airbender University
 
 Email:aangthelastairbender@avator.com 
 
-Tel Number: 123-456-7890
+Tele Number: 123-456-7890
 
 * *Insert real phone number here* 
 

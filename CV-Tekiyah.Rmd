@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Personal information
 Name Avatar AANG
 
-Address. THe last airbender University
+Address. The last airbender University
 
 Email:aangthelastairbender@avator.com 
 

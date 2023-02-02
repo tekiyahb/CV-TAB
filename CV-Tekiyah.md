@@ -1,11 +1,9 @@
 CV_Tekiyah
 ================
-Tekiyah
-2023-02-02
 
 # Personal information
 
-Name AANG
+Name Avatar AANG
 
 Address. THe last airbender University
 
@@ -40,3 +38,6 @@ the fire lord of the fire nation and mentor the next avatar
 - BA fire bending.  
 - BA earth bending.  
 - BA water bending.
+
+![alt
+text](https://static1.srcdn.com/wordpress/wp-content/uploads/2020/07/Aang-Avatar-The-Last-Airbender.jpg)

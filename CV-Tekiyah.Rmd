@@ -1,7 +1,5 @@
 ---
 title: "CV_Tekiyah"
-author: "Tekiyah"
-date: "2023-02-02"
 output: github_document
 ---
 
@@ -10,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Personal information
-Name AANG
+Name Avatar AANG
 
 Address. THe last airbender University
 
@@ -50,4 +48,5 @@ Everywhere
 * BA earth bending.  
 * BA water bending.  
 
+![alt text](https://static1.srcdn.com/wordpress/wp-content/uploads/2020/07/Aang-Avatar-The-Last-Airbender.jpg)
 

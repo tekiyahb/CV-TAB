@@ -5,44 +5,38 @@ Tekiyah
 
 # Personal information
 
-Name
+Name AANG
 
-Address.
+Address. THe last airbender University
 
-Email: @cornell.edu.
+Email:<aangthelastairbender@avator.com>
 
 Tel Number: 123-456-7890
 
 ## Summary
 
-In this section give a brief overview of the candidate you are
-ex:passionate healthcare worker with years of experience managing
-projects in high vol hospital.
+I am the last airbender. I was selected to protect but for over 100
+years stuck in an iceberg. I need to master the other elements to defeat
+the fire lord of the fire nation and mentor the next avatar
 
 ## Experience
 
-Year: position Where
-
-Duties.
-
-## 2022-2023: Student Research associate
-
-Cornell University
+1.  Student avatar.  
+    Air temple
 
 - Project manager
 
-## 2021-2022: Veterinary technician
+2.  Avatar  
+    Everywhere
 
-Medvet Emergency hospital
-
-- Assisted in an emergency hospital
-- Triaged patients
-- Managed workload of staff
+- Assisted in emergency situations
+- Mentor the next avatar
+- Managed workload of starr (friends) \*Collaborated with peers to bring
+  the nations together
 
 ## Education
 
-MS Cornell Un BS Tuskegee Uni
-
-## Conferences
-
-## Publications
+- BA Air bending.
+- BA fire bending.  
+- BA earth bending.  
+- BA water bending.
